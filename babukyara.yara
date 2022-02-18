@@ -4,7 +4,7 @@ rule malware
         description = "For babuk Ransomware"
         author = "Manoj Ghimire"
   	malware-family = “Ransom:Win/Babuk” 
-        hash = "8203c2f00ecd3ae960cb3247a7d7bfb35e55c38939607c85dbdb5c92f0495fa9"
+        hash256 = "8203c2f00ecd3ae960cb3247a7d7bfb35e55c38939607c85dbdb5c92f0495fa9"
 	
     strings:
 	
