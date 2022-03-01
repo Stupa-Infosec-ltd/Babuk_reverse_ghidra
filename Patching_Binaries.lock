@@ -1,0 +1,9 @@
+#Ghidra Lock File
+#Tue Mar 01 20:50:44 NPT 2022
+OS\ Name=Linux
+OS\ Version=5.10.0-9-amd64
+Username=akakrazy
+Hostname=kali
+<META>\ Supports\ File\ Channel\ Locking=Channel Lock
+OS\ Architecture=amd64
+Timestamp=3/1/22, 8\:50 PM
