@@ -3,7 +3,7 @@
 ## This repository contains:
 
 
-### Report of Babuk ransomware.
+### Reversing Report of Babuk ransomware done in Ghidra.
 ### Ghidra project of reversed repository.
 ### yara rule
 
